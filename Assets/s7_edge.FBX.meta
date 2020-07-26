@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 5f3fe837e9d29d8479e1ace86c00727c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AI33_06_Archinteriors7_08_112
+    100002: AI33_06_Archinteriors7_08_113
+    100004: AI33_06_Particle View 01
+    100006: aluminum_body
+    100008: antenna
+    100010: archinteriors17_10_161
+    100012: archinteriors17_10_162
+    100014: back_black_glass
+    100016: black_flash
+    100018: black_metal_home
+    100020: black_opaque_camera
+    100022: buttons_light
+    100024: camera_back_bitmap
+    100026: camera_back_glass
+    100028: camera_black_circles
+    100030: camera_front_bitmap
+    100032: flash_sensor
+    100034: grey_rubber
+    100036: Particle View 001
+    100038: Particle View 002
+    100040: Particle View 003
+    100042: //RootNode
+    100044: s7_edge
+    100046: samsung_logo
+    100048: screen
+    100050: screen_glass
+    400000: AI33_06_Archinteriors7_08_112
+    400002: AI33_06_Archinteriors7_08_113
+    400004: AI33_06_Particle View 01
+    400006: aluminum_body
+    400008: antenna
+    400010: archinteriors17_10_161
+    400012: archinteriors17_10_162
+    400014: back_black_glass
+    400016: black_flash
+    400018: black_metal_home
+    400020: black_opaque_camera
+    400022: buttons_light
+    400024: camera_back_bitmap
+    400026: camera_back_glass
+    400028: camera_black_circles
+    400030: camera_front_bitmap
+    400032: flash_sensor
+    400034: grey_rubber
+    400036: Particle View 001
+    400038: Particle View 002
+    400040: Particle View 003
+    400042: //RootNode
+    400044: s7_edge
+    400046: samsung_logo
+    400048: screen
+    400050: screen_glass
+    2100000: Screenshot
+    2100002: brushed_steel
+    2100004: camera_glass
+    2100006: black_back_glass
+    2100008: light_sensor
+    2100010: black_metal
+    2100012: samsung_logo
+    2100014: antenna
+    2100016: buttons_light
+    2100018: grey_rubber
+    2100020: opaque_camera_plastic
+    2100022: camera_bitmap
+    2100024: camera_circles
+    2100026: black_flash_glossiness
+    2100028: 'Material #76'
+    2100030: flash
+    2300000: aluminum_body
+    2300002: antenna
+    2300004: back_black_glass
+    2300006: black_flash
+    2300008: black_metal_home
+    2300010: black_opaque_camera
+    2300012: buttons_light
+    2300014: camera_back_bitmap
+    2300016: camera_back_glass
+    2300018: camera_black_circles
+    2300020: camera_front_bitmap
+    2300022: flash_sensor
+    2300024: grey_rubber
+    2300026: samsung_logo
+    2300028: screen
+    2300030: screen_glass
+    3300000: aluminum_body
+    3300002: antenna
+    3300004: back_black_glass
+    3300006: black_flash
+    3300008: black_metal_home
+    3300010: black_opaque_camera
+    3300012: buttons_light
+    3300014: camera_back_bitmap
+    3300016: camera_back_glass
+    3300018: camera_black_circles
+    3300020: camera_front_bitmap
+    3300022: flash_sensor
+    3300024: grey_rubber
+    3300026: samsung_logo
+    3300028: screen
+    3300030: screen_glass
+    4300000: screen
+    4300002: aluminum_body
+    4300004: camera_back_glass
+    4300006: black_metal_home
+    4300008: back_black_glass
+    4300010: samsung_logo
+    4300012: antenna
+    4300014: screen_glass
+    4300016: buttons_light
+    4300018: grey_rubber
+    4300020: black_opaque_camera
+    4300022: camera_back_bitmap
+    4300024: camera_black_circles
+    4300026: black_flash
+    4300028: flash_sensor
+    4300030: camera_front_bitmap
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
