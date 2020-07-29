@@ -7,29 +7,54 @@ using System;
 public class ChangeModel : MonoBehaviour
 {
     public TextMeshProUGUI output;
-    public GameObject head;
+    public GameObject WoodenTable;
+    public GameObject IphoneScreen;
+    public GameObject Clothing;
+    public GameObject PaperMoney;
 
-    void HandleInputData(int val)
+    public void HandleInputData(int val)
     {
+
+
         if (val == 0)
         {
-            head.SetActive(true);
+            WoodenTable.SetActive(false);
+            IphoneScreen.SetActive(false);
+            Clothing.SetActive(false);
+            PaperMoney.SetActive(false);
             Debug.Log("Active");
         }
         else if (val == 1)
         {
-            head.SetActive(true);
+            WoodenTable.SetActive(true);
+            IphoneScreen.SetActive(false);
+            Clothing.SetActive(false);
+            PaperMoney.SetActive(false);
             Debug.Log("Active");
         }
         else if (val == 2)
         {
-            head.SetActive(false);
-            Debug.Log("Adddctive");
+            WoodenTable.SetActive(false);
+            IphoneScreen.SetActive(true);
+            Clothing.SetActive(false);
+            PaperMoney.SetActive(false);
+            Debug.Log("Active");
         }
         else if (val == 3)
         {
-            head.SetActive(false);
-            Debug.Log("Adddctive");
+            WoodenTable.SetActive(false);
+            IphoneScreen.SetActive(false);
+            Clothing.SetActive(true);
+            PaperMoney.SetActive(false);
+            Debug.Log("Active");
+        }
+        else if (val == 4)
+        {
+            WoodenTable.SetActive(false);
+            IphoneScreen.SetActive(false);
+            Clothing.SetActive(false);
+            PaperMoney.SetActive(true);
+            Debug.Log("Active");
         }
     }
 }
