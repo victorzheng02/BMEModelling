@@ -6,9 +6,9 @@ public class CameraBehaviour : MonoBehaviour
 {
     public GameObject cam1;
     public GameObject MainCamera;
-
     public void CameraMenu(int val)
     {
+    
         if (val == 0)
         {
             MainCamera.SetActive(true);
